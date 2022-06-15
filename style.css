@@ -2,6 +2,10 @@ header {
     background-color: rgba(56, 54, 50, 1);
 }
 
+h1 {
+    color: aqua;
+}
+
 .ajustar-logo{
     width: 245px;
     height: 150px;
