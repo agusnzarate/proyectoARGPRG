@@ -1,0 +1,21 @@
+div {
+    background-color: #231815;
+}
+
+.row {
+    padding: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+p {
+    color: #fdff00;
+}
+
+h1 {
+    color: #505c7c;
+}
+img {
+    border-radius: 50%;
+    position: relative;
+}
