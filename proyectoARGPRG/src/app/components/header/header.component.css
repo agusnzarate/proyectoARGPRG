@@ -1,3 +1,11 @@
-.row {
+nav {
     background-color: #505c7c;
+    padding: 0px;
+    align-items: center;
+    font-size: 0.9em;
 }
+
+img {
+    width: 110px;
+}
+
