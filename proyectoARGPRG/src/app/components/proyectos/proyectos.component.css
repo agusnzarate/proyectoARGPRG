@@ -1,0 +1,25 @@
+.row {
+    padding: 20px;
+    background-color: #231815;
+}
+
+p {
+    color: #fdff00;
+}
+
+h2 {
+    color: #505c7c;
+}
+
+img {
+    height: 300px;
+}
+
+.contenedor {
+    width: auto;
+}
+
+.proyectoTexto, .proyectoImagen {
+    display: inline-block;
+    text-align: justify;
+}
