@@ -1,0 +1,12 @@
+.row {
+    background-color: #505c7c ;
+}
+
+footer {
+    padding: 20px;
+    color: blanchedalmond;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}

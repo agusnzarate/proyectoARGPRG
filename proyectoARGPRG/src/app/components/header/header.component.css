@@ -1,9 +1,3 @@
-header {
+.row {
     background-color: #505c7c;
-    top: 0px;
-}
-
-app-redsocial {
-    float: right;
-    margin-top: 20px;
 }
