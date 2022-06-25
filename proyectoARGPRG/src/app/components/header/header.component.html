@@ -1,25 +1,44 @@
-<nav class="navbar navbar-expand-sm navbar-dark">
+<nav class="navbar navbar-expand-md navbar-dark ">
     <div class="container-fluid">
+        <!-- logo Argentina Programa-->
         <a class="navbar-brand" href="#">
             <img src="../../../assets/APLogo.png" alt="">
         </a>
+        <!--Boton de menu-->
         <button class="navbar-toggler" 
         type="button" 
         data-bs-toggle="collapse" 
-        data-bs-target="#navbarSupportedContent" 
+        data-bs-target="#menu" 
         aria-controls="navbarSupportedContent" 
         aria-expanded="false" 
         ria-label="Toogle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav">
+        <!--Elementos del menu-->
+        <div class="collapse navbar-collapse" id="menu">
+            <ul class="navbar-nav me-auto">
                 <li class="nav-item"><a class="nav-link" href="#">Experiencia</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Educacion</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Habilidades</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Proyectos</a></li>  
-                <!--<button class="btn btn-outline-light btn-sm" type="submit">Login</button>-->
             </ul>
+            <hr class="text-white-50">
+            <!--Enlaces redes sociales-->
+            <ul class="navbar-nav sm-icons ms-auto flex-row flex-wrap text-light">
+              <li class="nav-item col-6 col-md-auto p-1"><a class="nav-link" href="#"><i class="bi bi-github"></i>
+                <small class="d-md-none ms-2">Github</small></a></li>
+              <li class="nav-item col-6 col-md-auto p-1"><a class="nav-link" href="#"><i class="bi bi-facebook"></i>
+                <small class="d-md-none ms-2">Facebook</small></a></li>
+              <li class="nav-item col-6 col-md-auto p-1"><a class="nav-link" href="#"><i class="bi bi-linkedin"></i>
+                <small class="d-md-none ms-2">Linkedin</small></a></li>
+              <li class="nav-item col-6 col-md-auto p-1"><a class="nav-link" href="#"><i class="bi bi-instagram"></i>
+                <small class="d-md-none ms-2">Instagram</small></a></li>
+          </ul>
+          <hr class="text-white-50">
+          <!--Boton de Login-->
+          <form class="d-flex"></form>
+          <button class="btn btn-outline-light btn-sm d-md-inline-block " type="submit">Login</button>
         </div>
     </div>
 </nav>
+
