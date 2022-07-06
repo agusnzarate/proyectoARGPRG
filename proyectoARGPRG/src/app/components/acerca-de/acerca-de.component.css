@@ -1,21 +1,8 @@
-div {
-    background-color: #231815;
-}
-
 .row {
-    padding: 20px;
-    padding-left: 150px;
-    padding-right: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
-p {
-    color: #fdff00;
-}
-
-h1 {
-    color: #cc5697;
-}
 img {
     border-radius: 50%;
-    position: relative;
 }

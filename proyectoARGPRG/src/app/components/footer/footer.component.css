@@ -1,10 +1,10 @@
 .row {
-    background-color: #505c7c ;
+    background-color: #1B1B1B ;
 }
 
 footer {
     padding: 20px;
-    color: blanchedalmond;
+    color: white;
     font-size: 15px;
     display: flex;
     flex-direction: column;

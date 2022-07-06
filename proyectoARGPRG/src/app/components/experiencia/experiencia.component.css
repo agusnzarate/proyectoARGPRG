@@ -1,18 +1,8 @@
 .row {
-    padding: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 div {
-    background-color: #231815;
-}
-p {
-    color: #fdff00;
-}
-
-h2 {
-    color: #505c7c;
-}
-
-h2, h3{
-    display: inline;
+    background-color: ;
 }
